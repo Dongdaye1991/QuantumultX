@@ -20,6 +20,3 @@ Telecom_panel = title="电信余量",content="余量信息面板",style=info,scr
 YouTube Premium 解锁检测 = script-name=YouTube Premium 解锁检测,title=YouTube Premium 解锁检测,update-interval=10
 Netflix 解锁检测 = script-name=Netflix 解锁检测,title=Netflix 解锁检测,content=请刷新,update-interval=10
 Disney+ 解锁检测 = script-name=Disney+ 解锁检测,title=Disney+ 解锁检测,content=请刷新,update-interval=10
-
-[MITM]
-hostname = %APPEND% e.189.cn:443
