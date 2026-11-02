@@ -3,12 +3,12 @@ description: 92/95/98/柴油实时油价、调价倒计时进度条、加满一�
 env_schema:
   PROVINCE:
     name: 省份
-    description: 省份编码或名称，如 11 或 北京
-    default_value: '浙江'
+    description: 省份编码或名称，如 33 或 浙江
+    default_value: '33'
   CITY:
     name: 城市
     description: 显示用城市名，多区域省份也用来匹配地区
-    default_value: 瑞安
+    default_value: 浙江
   MY_FUEL:
     name: 常加油号
     description: 92 / 95 / 98 / 柴油，用于高亮和计算加满花费
