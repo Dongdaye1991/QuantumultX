@@ -32,7 +32,7 @@ env_schema:
 scriptings:
 - generic:
     name: 油价-Hark
-    script_url: https://raw.githubusercontent.com/zhaohantao1360-hash/Hark/main/GasPrice-hark.js
+    script_url: https://raw.githubusercontent.com/Dongdaye1991/QuantumultX/refs/heads/master/GasPrice-hark.yaml
     timeout: 30
 widgets:
 - name: 油价-Hark
